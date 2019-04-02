@@ -1,0 +1,11 @@
+    {
+        is_new: 'false/true',
+        user_id: 23,
+        user_email: 'email@google.com',
+        price: 321,
+        issues: {
+                  12345: {cover: 'images/1.jpg', name: '43', date_release: '2017-01-03', buy_url: 'test/bye.html' },
+                  12346: {cover: 'images/2.jpg', name: '44', date_release: '2017-01-04', buy_url: 'test/bye.html' }
+                     
+                }
+    }

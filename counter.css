@@ -1,0 +1,189 @@
+.journal_case {
+    
+    border: 1px solid silver;
+    width: 100px;
+    height: 100px;
+}
+
+.journal_counter {
+    text-align: center;
+}
+
+.journal_counter .vit_item {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    
+    
+}
+
+
+.journal_counter .vit_item_big {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    width: 310px;
+    position: relative;
+    
+}
+
+.journal_counter .vit_label {
+    
+    position: absolute;
+    top: 210px;
+    left: 0;
+    background: #442374;
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+.journal_counter .vit_wrap {
+    height: 230px;
+    overflow: hidden;
+    
+}
+
+.vit_item {
+  width: 165px;   
+}
+    
+
+.journal_counter .vit_date {
+    line-height: 10px;
+    float: left;
+    display: inline-block;
+}
+
+.vit_button {
+    
+    background: #442374;
+    color: white;
+    font-weight: bold;
+    width: 70px;
+    height: 30px;
+    display: inline-block;
+    line-height: 30px;
+    float: right;
+    font-family: sans-serif;
+}
+
+.vit_price {
+    
+    color: #442374;
+    display: inline-block;
+    float: left;
+    margin: 0px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.vit_clear {
+    clear: both;
+}
+
+.vit_active {
+    border: 2px solid #442374;
+}
+
+.vit_pager {
+    
+    padding-top: 15px;
+}
+
+.vit_pager a {
+    height: 25px;
+    border: 1px solid silver;
+    color: #706b6b;
+    font-size: 14px;
+    font-family: sans-serif;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 2px;
+    min-width: 25px;
+    margin-left: 5px;
+    display: inline-block;
+    line-height: 25px;
+
+}
+
+.vit_pager .active{
+    background: #442374;
+    color: white;
+}
+
+.vit_preorder .vit_img {
+    width: 310;
+    float: left;    
+    display: inline-block;
+}
+
+.vit_preorder {
+    border: 2px solid #442374;    
+    width: 550px;
+}
+
+.vit_preorder form {
+    display: inline-block;
+    float: left;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.vit_preorder .vit_title {
+    font-size: 22px;
+    font-family: sans-serif;
+    color: #706b6b;
+}
+
+
+.vit_preorder .vit_form {
+    font-size: 22px;
+    font-family: sans-serif;
+    color: #442374;    
+}
+
+#vt_email {
+    font-size: 24px;
+    border: 1px solid #442374;
+    border-radius: 5px;
+    width: 190px;
+}
+
+.vit_preorder button {
+    font-size: 26px;
+    font-family: sans-serif;
+    background: #442374;    
+    color: white;
+    border: 0;
+    width: 190px;
+}
+
+.vit_preorder select {
+    font-size: 18px;
+    font-family: sans-serif;
+    background: #442374;    
+    color: white;
+    border: 0;
+    width: 200px;
+}
+
+#vit_sub {
+    font-size: 26px;
+    font-family: sans-serif;
+    background: #442374;    
+    color: white;
+    border: 0;
+    width: 190px;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
