@@ -21,14 +21,23 @@
     
     {
         status: 0,
+        
         message: 'Спасибо! Ваш аккаунт создан....',
+        
         is_new: 'false/true',
+        
         user_id: 23,
+        
         user_email: 'email@google.com',
+        
         price: 321,
+        
         issues: {
+        
                   12345: {cover: 'http://...image.jpg', name: '43', date_release: '2017-01-03', buy_url: 'http://....' },
+                  
                   12346: {cover: 'http://...image.jpg', name: '44', date_release: '2017-01-04', buy_url: 'http://....' },
+                  
                   ...
                      
                 }
